@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Hacker News Comment Locator",
+  "description": "Retrieve available comments for a post.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "http://api.thriftdb.com/"
+  ]
+}
