@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Hacker News Comment Locator",
-  "description": "Retrieve available comments for a post.",
+  "name": "Hacker News Reverse Lookup",
+  "description": "Retrieve comments if any exist for your current tab.",
   "version": "1.0",
 
   "browser_action": {
